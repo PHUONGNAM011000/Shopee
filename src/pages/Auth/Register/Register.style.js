@@ -9,12 +9,11 @@ export const StyledRegister = styled.div`
 export const Container = styled.div`
   padding: 8rem;
   display: flex;
-  gap: 15rem;
 `;
 
 export const FormWrapper = styled.div`
   flex: 0 0 50%;
-  max-width: 50%;
+  max-width: 46%;
   box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
   border-radius: 0%.4rem;
   background-color: #fff;
@@ -23,9 +22,8 @@ export const FormWrapper = styled.div`
 
 export const Banner = styled.div`
   flex: 0 0 50%;
-  max-width: 40%;
+  max-width: 50%;
   background-image: url("https://e.com.vn/assets/img/shopee.png");
-  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 `;
